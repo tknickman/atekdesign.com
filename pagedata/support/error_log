@@ -1,0 +1,248 @@
+[15-Jan-2018 15:16:51 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[15-Jan-2018 15:16:51 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[15-Jan-2018 15:16:51 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[15-Jan-2018 15:16:51 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[05-Apr-2018 10:12:04 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[05-Apr-2018 10:12:04 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[05-Apr-2018 10:12:04 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[05-Apr-2018 10:12:04 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[24-Apr-2018 10:37:11 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[24-Apr-2018 10:37:11 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[24-Apr-2018 10:37:11 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[24-Apr-2018 10:37:11 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[01-May-2018 05:01:59 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[01-May-2018 05:01:59 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[01-May-2018 05:01:59 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[01-May-2018 05:01:59 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[11-May-2018 22:15:32 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[25-May-2018 14:32:58 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[25-May-2018 14:32:58 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[25-May-2018 14:32:58 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[25-May-2018 14:32:58 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[30-Jun-2018 12:25:42 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[30-Jun-2018 12:25:42 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[30-Jun-2018 12:25:42 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[30-Jun-2018 12:25:42 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[06-Aug-2018 05:53:23 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[06-Aug-2018 05:53:23 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[06-Aug-2018 05:53:23 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[06-Aug-2018 05:53:23 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[18-Aug-2018 13:01:46 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[18-Aug-2018 13:01:46 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[18-Aug-2018 13:01:46 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[18-Aug-2018 13:01:46 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[13-Mar-2019 16:51:44 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[13-Mar-2019 16:51:44 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[13-Mar-2019 16:51:44 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[13-Mar-2019 16:51:44 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[16-Mar-2019 15:48:30 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[16-Mar-2019 15:48:30 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[16-Mar-2019 15:48:30 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[16-Mar-2019 15:48:30 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[29-Mar-2019 13:57:16 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[29-Mar-2019 13:57:17 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[29-Mar-2019 13:57:17 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[29-Mar-2019 13:57:17 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[05-May-2019 07:25:57 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[05-May-2019 07:25:57 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[05-May-2019 07:25:57 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[05-May-2019 07:25:57 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[13-Jun-2019 09:22:33 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[13-Jun-2019 09:22:33 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[13-Jun-2019 09:22:33 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[13-Jun-2019 09:22:33 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[21-Jul-2019 18:37:29 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[21-Jul-2019 18:37:29 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[21-Jul-2019 18:37:29 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[21-Jul-2019 18:37:29 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[27-Jul-2019 05:17:43 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[27-Jul-2019 05:17:43 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[27-Jul-2019 05:17:43 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[27-Jul-2019 05:17:43 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[18-Aug-2019 00:47:46 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[18-Aug-2019 00:47:46 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[18-Aug-2019 00:47:46 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[18-Aug-2019 00:47:46 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[19-Aug-2019 15:59:34 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[19-Aug-2019 15:59:34 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[19-Aug-2019 15:59:34 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[19-Aug-2019 15:59:34 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[06-Sep-2019 08:21:53 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[06-Sep-2019 08:21:53 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[06-Sep-2019 08:21:53 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[06-Sep-2019 08:21:53 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[06-Sep-2019 20:49:31 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[06-Sep-2019 20:49:31 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[13-Sep-2019 20:06:52 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[13-Sep-2019 20:06:52 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[13-Sep-2019 20:06:52 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[13-Sep-2019 20:06:52 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[03-Oct-2019 02:02:52 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[03-Oct-2019 02:02:52 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[03-Oct-2019 02:02:52 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[03-Oct-2019 02:02:52 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[17-Oct-2019 08:14:27 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[17-Oct-2019 08:14:29 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[21-Oct-2019 08:54:54 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[21-Oct-2019 08:54:54 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[21-Oct-2019 08:54:54 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[21-Oct-2019 08:54:54 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[04-Nov-2019 08:05:43 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[04-Nov-2019 08:06:14 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[09-Nov-2019 00:28:23 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[09-Nov-2019 00:28:24 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[04-Dec-2019 04:24:45 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[04-Dec-2019 04:24:45 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[04-Dec-2019 04:24:45 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[04-Dec-2019 04:24:45 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[07-Dec-2019 13:48:06 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[07-Dec-2019 13:48:09 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[12-Dec-2019 18:05:54 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[12-Dec-2019 18:05:56 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[15-Dec-2019 10:31:01 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[15-Dec-2019 10:31:01 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[15-Dec-2019 10:31:01 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[15-Dec-2019 10:31:01 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[24-Dec-2019 19:50:03 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[24-Dec-2019 19:50:04 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[27-Dec-2019 02:03:38 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[27-Dec-2019 02:03:38 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[27-Dec-2019 02:03:38 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[27-Dec-2019 02:03:38 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[30-Dec-2019 12:30:29 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[30-Dec-2019 12:30:32 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[19-Jan-2020 08:25:22 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[19-Jan-2020 08:25:24 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[30-Jan-2020 04:06:23 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[30-Jan-2020 04:06:23 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[30-Jan-2020 04:06:23 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[30-Jan-2020 04:06:23 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[31-Jan-2020 18:28:17 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[31-Jan-2020 18:28:18 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[05-Feb-2020 20:36:02 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[05-Feb-2020 20:36:03 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[19-Feb-2020 09:52:58 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[19-Feb-2020 09:53:00 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[23-Feb-2020 20:16:17 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[23-Feb-2020 20:16:17 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[23-Feb-2020 20:16:17 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[23-Feb-2020 20:16:17 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[24-Feb-2020 20:32:12 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[24-Feb-2020 20:32:13 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[27-Apr-2020 04:38:57 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[27-Apr-2020 04:38:58 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[11-May-2020 01:25:43 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[11-May-2020 01:25:45 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[22-May-2020 01:07:17 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[22-May-2020 01:07:17 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[22-May-2020 01:07:17 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[22-May-2020 01:07:17 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[03-Jun-2020 22:32:16 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[03-Jun-2020 22:32:16 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[03-Jun-2020 22:32:16 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[03-Jun-2020 22:32:16 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[17-Jun-2020 05:06:52 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[17-Jun-2020 05:06:52 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[17-Jun-2020 05:06:52 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[17-Jun-2020 05:06:52 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[22-Jun-2020 14:32:13 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[22-Jun-2020 14:32:16 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[29-Jun-2020 02:52:46 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[29-Jun-2020 02:52:46 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[29-Jun-2020 02:52:46 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[29-Jun-2020 02:52:46 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[15-Jul-2020 02:13:49 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[15-Jul-2020 02:13:49 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[15-Jul-2020 02:13:49 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[15-Jul-2020 02:13:49 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[29-Jul-2020 01:51:07 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[29-Jul-2020 01:51:09 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[05-Aug-2020 02:22:13 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[05-Aug-2020 02:22:23 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[08-Aug-2020 20:09:17 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[08-Aug-2020 20:09:25 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[10-Aug-2020 21:32:09 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[10-Aug-2020 21:32:10 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[16-Aug-2020 12:05:53 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[16-Aug-2020 12:05:55 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[28-Aug-2020 01:44:51 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[28-Aug-2020 01:44:53 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[05-Sep-2020 01:34:27 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[05-Sep-2020 01:34:30 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[14-Sep-2020 03:23:13 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[15-Sep-2020 12:58:14 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[15-Sep-2020 12:58:20 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[25-Sep-2020 01:17:55 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[25-Sep-2020 01:17:59 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[26-Sep-2020 09:01:18 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[16-Oct-2020 06:45:53 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[16-Oct-2020 06:45:53 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[16-Oct-2020 06:45:53 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[16-Oct-2020 06:45:53 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[02-Nov-2020 11:04:38 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[02-Nov-2020 11:04:38 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[02-Nov-2020 11:04:38 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[02-Nov-2020 11:04:38 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[27-Nov-2020 10:34:45 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[27-Nov-2020 10:34:45 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[27-Nov-2020 10:34:45 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[27-Nov-2020 10:34:45 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[11-Dec-2020 23:23:36 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[11-Dec-2020 23:23:36 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[11-Dec-2020 23:23:36 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[11-Dec-2020 23:23:36 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[11-Dec-2020 23:23:37 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[11-Dec-2020 23:23:37 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[11-Dec-2020 23:23:37 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[11-Dec-2020 23:23:37 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[26-Feb-2021 09:11:54 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[15-Mar-2021 07:37:12 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[15-Mar-2021 07:37:12 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[15-Mar-2021 07:37:12 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[15-Mar-2021 07:37:12 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[15-Mar-2021 07:37:12 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[15-Mar-2021 07:37:12 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[15-Mar-2021 07:37:12 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[15-Mar-2021 07:37:12 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[22-Apr-2021 02:45:24 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[14-Jul-2021 15:54:24 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[14-Jul-2021 15:54:24 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[14-Jul-2021 15:54:24 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[14-Jul-2021 15:54:24 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[14-Jul-2021 15:54:25 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[14-Jul-2021 15:54:25 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[14-Jul-2021 15:54:25 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[14-Jul-2021 15:54:25 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[15-Jul-2021 05:20:41 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[15-Jul-2021 05:20:41 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[15-Jul-2021 05:20:41 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[15-Jul-2021 05:20:41 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[15-Jul-2021 05:20:42 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[15-Jul-2021 05:20:42 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[15-Jul-2021 05:20:42 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[15-Jul-2021 05:20:42 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[25-Jul-2021 01:35:24 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[25-Jul-2021 01:35:24 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[25-Jul-2021 01:35:24 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[25-Jul-2021 01:35:24 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[03-Sep-2021 02:14:11 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[03-Sep-2021 02:14:11 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[03-Sep-2021 02:14:11 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[03-Sep-2021 02:14:11 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[03-Sep-2021 02:14:11 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[03-Sep-2021 02:14:11 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[03-Sep-2021 02:14:11 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[03-Sep-2021 02:14:11 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[07-Sep-2021 01:20:58 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[03-Oct-2021 04:06:36 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[03-Oct-2021 04:06:36 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[03-Oct-2021 04:06:36 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[03-Oct-2021 04:06:36 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[03-Oct-2021 04:06:36 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[03-Oct-2021 04:06:36 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[03-Oct-2021 04:06:36 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[03-Oct-2021 04:06:36 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
+[18-Nov-2021 05:42:51 America/New_York] PHP Notice:  Undefined index: name in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 11
+[18-Nov-2021 05:42:51 America/New_York] PHP Notice:  Undefined index: email in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 12
+[18-Nov-2021 05:42:51 America/New_York] PHP Notice:  Undefined index: message in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 13
+[18-Nov-2021 05:42:51 America/New_York] PHP Deprecated:  Function eregi() is deprecated in /home/tknickma/public_html/atekdesign.com/pagedata/support/contact.php on line 17
